@@ -1,7 +1,7 @@
 # Clinic-Management-System
 This is an C project to manage clinic easily
 
- ** **There's an two login system one for admin and the second one for user or clint
+ ** **At the beginning of the system it asks the user to choose between admin mode and user mode.
 
 ## Admin Mode:
 
